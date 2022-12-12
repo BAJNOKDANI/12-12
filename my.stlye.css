@@ -13,5 +13,8 @@ a {
 }
 p {
     border-style: solid;
-    border-color:blue
+    border-color:blue;
+    border-top-width: 10px;
+    border-bottom-width: 10px;
+    
 }
