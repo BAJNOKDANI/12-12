@@ -1,3 +1,9 @@
 body {
     background-color: aqua;
+    
+}
+a {
+    text-decoration-color: none ;
+    color:red;
+    
 }
