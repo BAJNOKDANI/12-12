@@ -10,7 +10,8 @@ a {
 .alcim{
     padding: 20px;
     background-color: red;
- {
+}
+div {
     border-style: solid;
     border-color:blue
 }
